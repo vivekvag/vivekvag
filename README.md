@@ -64,8 +64,6 @@ I am always eager to explore new technologies and tools, and actively participat
 
 <a href="http://www.github.com/vivekvag"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekvag&stroke=64748b&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=64748b&currStreakLabel=3382ed&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-<a href="http://www.github.com/vivekvag"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vivekvag&bg_color=0f172a&color=64748b&line=0891b2&point=64748b&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vivekvag&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 

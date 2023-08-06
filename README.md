@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vivek Gupta
 ===================================================================================================================================
 
-Web Developer
+Web Developer | [![](https://visitcount.itsvg.in/api?id=vivekvag&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 -------------
 
 I am always eager to explore new technologies and tools, and actively participate in hackathons. I have a natural curiosity for understanding how gadgets work and enjoy modding, tweaking, and customization. By experimenting with custom ROMs, firmware modifications, and optimizations, I aim to enhance device performance and unlock new possibilities.
@@ -70,5 +70,3 @@ I am always eager to explore new technologies and tools, and actively participat
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/vivekvag"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-[![](https://visitcount.itsvg.in/api?id=vivekvag&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)

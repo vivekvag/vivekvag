@@ -14,12 +14,12 @@ I am always passionate about exploring new things and solving complex problems u
 <br />
 <div>
   <a href="https://twitter.com/vivekvag">
-    <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img align="left" alt="Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" />
   </a>
   <a href="https://www.linkedin.com/in/vivekvag/">
-    <img align="left" alt="Vivek's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="left" alt="Vivek's Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" />
   </a>
   <a href="mailto:vivek.Idwrk@simplelogin.co">
-    <img align="left" alt="Vivek's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img align="left" alt="Vivek's Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />
   </a>
 </div>

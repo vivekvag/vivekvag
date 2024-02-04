@@ -11,13 +11,15 @@ I am always passionate about exploring new things and solving complex problems u
 * ⚡  Winner of Smart India Hackathon 2022
 
 **Connect with me:**
-<a href="https://twitter.com/vivekvag">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/vivekvag/">
-  <img align="left" alt="Vivek's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:vivek.Idwrk@simplelogin.co">
-  <img align="left" alt="Vivek's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
+<br />
+<div>
+  <a href="https://twitter.com/vivekvag">
+    <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/vivekvag/">
+    <img align="left" alt="Vivek's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="mailto:vivek.Idwrk@simplelogin.co">
+    <img align="left" alt="Vivek's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+</div>
